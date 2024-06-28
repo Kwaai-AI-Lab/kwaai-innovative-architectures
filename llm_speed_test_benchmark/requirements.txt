@@ -1,0 +1,5 @@
+mamba-ssm
+transformers
+causal-conv1d>=1.2.0
+triton>=2.3.1
+pandas
